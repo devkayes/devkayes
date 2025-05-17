@@ -12,7 +12,7 @@
 
 ## Contribution 
 
-- [RTIS](https://rtis.cloud/) - [Carbangla](https://play.google.com/store/apps/details?id=com.carbangla.user) - [Schooling](https://rtis.cloud/) - [Proggamoy Quran](https://proggamoyquran.com/) - [TMS](https://tms.solutya.com/)
+- [Daily Quran](https://www.kayes.dev/talks/daily-quran) - [RTIS](https://rtis.cloud/) - [Carbangla](https://play.google.com/store/apps/details?id=com.carbangla.user) - [Schooling](https://www.schooling.app/) - [Proggamoy Quran](https://proggamoyquran.com/) - [TMS](https://tms.solutya.com/)
   
 
 
